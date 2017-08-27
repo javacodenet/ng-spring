@@ -1,0 +1,27 @@
+{
+  "name": "ng-spring",
+  "version": "1.0.0",
+  "description": "A Demo application with AngularJS and Spring Boot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javacodenet/ng-spring.git"
+  },
+  "keywords": [
+    "angularjs",
+    "springboot",
+    "spring"
+  ],
+  "author": "Javacodenet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javacodenet/ng-spring/issues"
+  },
+  "homepage": "https://github.com/javacodenet/ng-spring#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
